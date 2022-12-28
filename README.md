@@ -19,7 +19,7 @@ SYNC intern's [TASK 2]
                                      YOU CAN OPEN THIS QUIZ PROJECT ON ANY DEVICE USING THIS LIVE LINK
                                      
                                      LINK :-  
-                                           https://prisoner79.github.io/Quiz-App-using-Java-Script/
+ https://prisoner79.github.io/Quiz-App-using-Java-Script/
                                      
                                      
                                                                                REGARDS CREATOR :- RITIK KUMAR CHAUDHARY / prisoner79
